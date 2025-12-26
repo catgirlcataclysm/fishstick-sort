@@ -1,6 +1,6 @@
 # 🏳️‍🌈 Opinionated Queer License v1.3
 
-© Copyright {Licensor}
+© Copyright catgirlcataclysm
 
 ## Permissions
 
